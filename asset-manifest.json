@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Emarh-Weather-ReactJS/static/css/main.3196c9a0.css",
+    "main.js": "/Emarh-Weather-ReactJS/static/js/main.8998fb68.js",
+    "static/js/453.f957a6a0.chunk.js": "/Emarh-Weather-ReactJS/static/js/453.f957a6a0.chunk.js",
+    "static/media/snowy.png": "/Emarh-Weather-ReactJS/static/media/snowy.eda7e9478f1d458685b7.png",
+    "static/media/sunny.png": "/Emarh-Weather-ReactJS/static/media/sunny.fef3e9a99a2361ea2cf4.png",
+    "static/media/cloudy.png": "/Emarh-Weather-ReactJS/static/media/cloudy.318e48addb21418bb0fc.png",
+    "static/media/rainy.png": "/Emarh-Weather-ReactJS/static/media/rainy.9c1a9dd674a353a5cf59.png",
+    "static/media/loading.gif": "/Emarh-Weather-ReactJS/static/media/loading.a1a996746e5e48352c81.gif",
+    "index.html": "/Emarh-Weather-ReactJS/index.html",
+    "main.3196c9a0.css.map": "/Emarh-Weather-ReactJS/static/css/main.3196c9a0.css.map",
+    "main.8998fb68.js.map": "/Emarh-Weather-ReactJS/static/js/main.8998fb68.js.map",
+    "453.f957a6a0.chunk.js.map": "/Emarh-Weather-ReactJS/static/js/453.f957a6a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3196c9a0.css",
+    "static/js/main.8998fb68.js"
+  ]
+}
